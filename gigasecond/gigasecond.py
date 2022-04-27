@@ -1,3 +1,4 @@
+#ejercicio 2
 from datetime import timedelta
 
 GigaS = timedelta(seconds=10**9)
